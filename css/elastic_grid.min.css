@@ -198,9 +198,7 @@
   margin-inline-end: 0px;
  
 }
-.og-details iframe {
- 
-}
+
 .og-details a.link-button {
   
   padding: 8px 10px;
@@ -755,6 +753,13 @@ nav#porfolio-nav li:last-child a {
     width: 100%;
     text-indent: 25px;
   }
+  .og-details a.link-button {
+    border-radius: .5rem;
+    color: #5E1529;
+    font-weight: bold;
+    font-size: 0.5rem;
+    margin-right: 0.5rem;
+  }
 }
 @media only screen and (max-width: 480px) {
   nav#porfolio-nav {
@@ -772,9 +777,11 @@ nav#porfolio-nav li:last-child a {
   .og-expander a {
     font-size: 11px;
   }
-  .og-expander-inner {
-    padding: 10px;
-  }
+  .og-expander-inner{
+      width: 100%;
+      height: 100%;
+    }
+  
   .og-grid .sep {
     display: none;
   }
@@ -795,6 +802,13 @@ nav#porfolio-nav li:last-child a {
   }
   .og-details .infosep {
     margin: 10px 0;
+  }
+  .og-details a.link-button {
+    border-radius: .5rem;
+    color: #5E1529;
+    font-weight: bold;
+    font-size: 0.5rem;
+    margin-right: 0.5rem;
   }
  
 }
@@ -818,8 +832,8 @@ nav#porfolio-nav li:last-child a {
   .og-details {
     width: 100%;
     margin-top: 5px;
-  } .og-expander-inner{
-    padding: 30px 30px;
+  }.og-expander-inner{
+    width: 100%;
     height: 100%;
   }
 }
@@ -833,6 +847,7 @@ nav#porfolio-nav li:last-child a {
   .og-expander a {
     font-size: 12px;
   }
+ 
 }
 @media (min-width: 768px) and (max-width: 979px) {
   .og-expander h3 {
@@ -849,8 +864,15 @@ nav#porfolio-nav li:last-child a {
     height: 80%;
   }
   .og-expander-inner{
-    padding: 30px 30px;
+    width: 100%;
     height: 100%;
+  }
+  .og-details a.link-button {
+    border-radius: .5rem;
+    color: #5E1529;
+    font-weight: bold;
+    font-size: 0.7rem;
+    margin-right: 0.5rem;
   }
 }
 @media (max-width: 767px) {
@@ -879,9 +901,17 @@ nav#porfolio-nav li:last-child a {
   }
   .og-details .infosep {
     margin: 12px 0;
-  } .og-expander-inner{
+  } 
+  .og-expander-inner{
     padding: 30px 30px;
     height: 100%;
+  }
+  .og-details a.link-button {
+    border-radius: .5rem;
+    color: #5E1529;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-right: 0.7rem;
   }
  
 }

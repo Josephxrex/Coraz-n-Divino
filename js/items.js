@@ -86,7 +86,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Nicho"],
       },
 
       //Item 3
@@ -110,7 +110,7 @@ $(function () {
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
                  </div>`,
         thumbnail: ["images/small/3.jpg", "images/small/3.jpg"],
-        large: ["images/large/1.png", "images/large/3.jpg"],
+        large: ["images/large/3.png", "images/large/3.jpg"],
         img_title: [
           "Imagen Corazon "
         ],
@@ -127,7 +127,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
 
       //Item 4
@@ -150,7 +150,7 @@ $(function () {
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
                  </div>`,
         thumbnail: ["images/small/4.jpg", "images/small/3.jpg"],
-        large: ["images/large/1.png", "images/large/3.jpg"],
+        large: ["images/large/4.png", "images/large/3.jpg"],
         img_title: [
           "Imagen Corazon "
         ],
@@ -167,7 +167,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
       //Item 5
       {
@@ -189,7 +189,7 @@ $(function () {
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
                  </div>`,
         thumbnail: ["images/small/5.jpg", "images/small/3.jpg"],
-        large: ["images/large/1.png", "images/large/3.jpg"],
+        large: ["images/large/5.png", "images/large/3.jpg"],
         img_title: [
           "Imagen Corazon "
         ],
@@ -206,7 +206,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
       //Item 6
       {
@@ -230,7 +230,7 @@ $(function () {
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
                  </div>`,
         thumbnail: ["images/small/6.jpg", "images/small/3.jpg"],
-        large: ["images/large/1.png", "images/large/3.jpg"],
+        large: ["images/large/6.png", "images/large/3.jpg"],
         img_title: [
           "Imagen Corazon "
         ],
@@ -247,7 +247,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
       //Item 7
       {
@@ -286,7 +286,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Nicho"],
       },
 
       //Item 8
@@ -327,7 +327,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Cruz"],
       },
 
       //Item 9
@@ -367,7 +367,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
 
       //Item 10
@@ -407,7 +407,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Corazón"]
       },
 
       //Item 11
@@ -447,7 +447,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
 
       //Item 12
@@ -488,7 +488,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Nicho"],
       },
 
       //Item 13
@@ -656,7 +656,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
 
       //Item 17
