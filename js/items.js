@@ -29,9 +29,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/1.jpg", "images/small/3.jpg"],
         large: ["images/large/1.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -70,9 +68,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/2.jpg", "images/small/3.jpg"],
         large: ["images/large/2.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -111,9 +107,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/3.jpg", "images/small/3.jpg"],
         large: ["images/large/3.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -151,9 +145,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/4.jpg", "images/small/3.jpg"],
         large: ["images/large/4.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -190,9 +182,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/5.jpg", "images/small/3.jpg"],
         large: ["images/large/5.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -231,9 +221,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/6.jpg", "images/small/3.jpg"],
         large: ["images/large/6.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -270,9 +258,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/7.jpg", "images/small/3.jpg"],
         large: ["images/large/7.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -311,9 +297,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/8.jpg", "images/small/3.jpg"],
         large: ["images/large/8.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -351,9 +335,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/9.jpg", "images/small/3.jpg"],
         large: ["images/large/9.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -391,9 +373,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/10.jpg", "images/small/3.jpg"],
         large: ["images/large/10.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -407,7 +387,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"]
+        tags: ["Corazón"],
       },
 
       //Item 11
@@ -431,9 +411,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/11.jpg", "images/small/3.jpg"],
         large: ["images/large/11.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -472,9 +450,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/12.jpg", "images/small/3.jpg"],
         large: ["images/large/12.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -513,9 +489,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/13.jpg", "images/small/3.jpg"],
         large: ["images/large/13.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -556,9 +530,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/14.jpg", "images/small/3.jpg"],
         large: ["images/large/14.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -598,9 +570,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/15.jpg", "images/small/3.jpg"],
         large: ["images/large/15.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -640,9 +610,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/16.jpg", "images/small/3.jpg"],
         large: ["images/large/16.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -683,9 +651,7 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/17.jpg", "images/small/3.jpg"],
         large: ["images/large/17.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
-        ],
+        img_title: ["Imagen Corazon "],
         button_list: [
           {
             title: "Comprar",
@@ -724,9 +690,409 @@ $(function () {
                  </div>`,
         thumbnail: ["images/small/18.jpg", "images/small/3.jpg"],
         large: ["images/large/18.png", "images/large/3.jpg"],
-        img_title: [
-          "Imagen Corazon "
+        img_title: ["Imagen Corazon "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Nicho Iglesia",
+        description: `
+        <p>
+        Nicho de iglesia elaborado es elaborado con hoja de lata y pintada a base de pintura de acrílico las ediciones de los colores son (turquesa,blanco,morado,rosa,azul).
+        </p>
+        <p><h3>$220.00MXN$</h3></p>
+        <div class="colores">
+        <p class="text_c color_txt">Color</p> 
+        <div class="colores_cards">
+            <div class="turquesa card_c"></div>
+            <div class="blancoOBS card_c"></div>
+            <div class="morado card_c"></div>
+            <div class="rosa card_c"></div>
+            <div class="azul card_c"></div>
+        </div>
+        <p class="subtitulo_card text_c">20 unidades disponibles</p>
+         </div>`,
+        thumbnail: ["images/small/19.jpg", "images/small/3.jpg"],
+        large: ["images/large/19.png", "images/large/3.jpg"],
+        img_title: ["Imagen iglesia "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Ángel Musical",
+        description: `
+      <p>
+      Ángel de madera de patol pintado a base de pintura acrílica disponible en varios instrumentos .
+      </p>
+      <p><h3>$350.00MXN$</h3></p>
+    
+      <p class="subtitulo_card text_c">25 unidades disponibles</p>
+       </div>`,
+        thumbnail: ["images/small/20.png", "images/small/3.jpg"],
+        large: ["images/large/20.png", "images/large/3.jpg"],
+        img_title: ["Imagen angel "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Nicho triple concha ",
+        description: `
+    <p>
+    Nicho triple concha elaborado con hoja de lata y pintado a base de pintura de acrílico con una pequeña puerta de vidrio que permite ver el fondo de cualquier imagen.
+    </p>
+    <p><h3>$255.00MXN$</h3></p>
+    <div class="colores">
+    <p class="text_c color_txt">Color</p> 
+    <div class="colores_cards">
+        <div class="rojo card_c"></div>
+        <div class="azul card_c"></div>
+        <div class="amarillo card_c"></div>
+        <div class="verde card_c"></div>
+    </div>
+    <p class="subtitulo_card text_c">21 unidades disponibles</p>
+     </div>`,
+        thumbnail: ["images/small/21.png", "images/small/3.jpg"],
+        large: ["images/large/21.png", "images/large/3.jpg"],
+        img_title: ["Imagen frida "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>***************",
+        description: `
+  <p>
+  ............
+  </p>
+  <p><h3>$00.00MXN$</h3></p>
+  <div class="colores">
+  <p class="text_c color_txt">Color</p> 
+  <div class="colores_cards">
+      <div class="rojo card_c"></div>
+      <div class="azul card_c"></div>
+      <div class="amarillo card_c"></div>
+      <div class="rosa card_c"></div>
+  </div>
+  <p class="subtitulo_card text_c">22 unidades disponibles</p>
+   </div>`,
+        thumbnail: ["images/small/22.png", "images/small/3.jpg"],
+        large: ["images/large/22.png", "images/large/3.jpg"],
+        img_title: ["Imagen xd "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Nicho cuatro corazones",
+        description: `
+<p>
+El nicho es elaborado con hoja de lata pintados con pintura acrílica disponible en varias versiones de colores de flores (azul,morado,naranja,verde).
+</p>
+<p><h3>$270.00MXN$</h3></p>
+<div class="colores">
+<p class="text_c color_txt">Color</p> 
+<div class="colores_cards">
+    <div class="azul card_c"></div>
+    <div class="morado card_c"></div>
+    <div class="naranja card_c"></div>
+    <div class="verde card_c"></div>
+</div>
+<p class="subtitulo_card text_c">13 unidades disponibles</p>
+ </div>`,
+        thumbnail: ["images/small/23.png", "images/small/3.jpg"],
+        large: ["images/large/23.png", "images/large/3.jpg"],
+        img_title: ["Imagen Ncorazones "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Cruz divina",
+        description: `
+<p>
+La cruz Divina es tallada con madera de patol posteriormente con una capa de sellador es barnizada y posteriormente pintada, finalizado todo ese proceso es elaborado pequeñas piezas de adorno de hoja de lata y pintadas con pintura de aceite dorada.
+</p>
+<p><h3>$270.00MXN$</h3></p>
+<div class="colores">
+
+
+<p class="subtitulo_card text_c">15 unidades disponibles</p>
+</div>`,
+        thumbnail: ["images/small/24.png", "images/small/3.jpg"],
+        large: ["images/large/24.png", "images/large/3.jpg"],
+        img_title: ["Imagen cruz "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      //aaa
+      {
+        title: "<br>Catrina flor",
+        description: `
+<p>
+La catrina es elaborada con hoja de lata y pintada a base de pintura de acrílico con una pequeña incrustaciones de listones de colores .    </p>
+<p><h3>$270.00MXN$</h3></p>
+<div class="colores">
+<p class="text_c color_txt">Color</p> 
+<div class="colores_cards">
+<div class="rojo card_c"></div>
+<div class="azul card_c"></div>
+<div class="amarillo card_c"></div>
+<div class="rosa card_c"></div>
+</div>
+<p class="subtitulo_card text_c">15 unidades disponibles</p>
+</div>`,
+        thumbnail: ["images/small/25.png", "images/small/3.jpg"],
+        large: ["images/large/25.png", "images/large/3.jpg"],
+        img_title: ["Imagen catrina "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Corazón tres rayos",
+        description: `
+<p>
+El corazón tres rayos es elaborado con hoja de lata y pintada a base de pintura de acrílico con una pequeña incrustación de una gama de fantasía de color rojo.
+</p>
+<p><h3>$130.00MXN$</h3></p>
+<div class="colores">
+<p class="text_c color_txt">Color</p> 
+<div class="colores_cards">
+<div class="rojo_claro card_c"></div>
+<div class="rojo card_c"></div>
+<div class="rojo_Oscuro card_c"></div>
+</div>
+<p class="subtitulo_card text_c">18 unidades disponibles</p>
+</div>`,
+        thumbnail: ["images/small/26.png", "images/small/3.jpg"],
+        large: ["images/large/26.png", "images/large/3.jpg"],
+        img_title: ["Imagen corazonR "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Corazón Cmini",
+        description: `
+<p>
+El corazón es elaborado con hoja de lata y pintada a base de pintura de acrílico su nombre se da por que es algo pequeño relacionado con los tamaños de los otros.
+</p>
+<p><h3>$65.00MXN$</h3></p>
+<div class="colores">
+<p class="text_c color_txt">Color</p> 
+<div class="colores_cards">
+<div class="rojo_claro card_c"></div>
+<div class="rojo card_c"></div>
+<div class="rojo_Oscuro card_c"></div>
+</div>
+<p class="subtitulo_card text_c">17 unidades disponibles</p>
+</div>`,
+        thumbnail: ["images/small/27.png", "images/small/3.jpg"],
+        large: ["images/large/27.png", "images/large/3.jpg"],
+        img_title: ["Imagen corazonM "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Puerco Madera",
+        description: `
+<p>
+El puerco es tallado en madera de patol ,la madera no tiene un peso significante ya que esa madera es la misma con la que anteriormente hacían los santos.
+</p>
+<p><h3>$230.00MXN$</h3></p>
+<div class="colores">
+
+
+<p class="subtitulo_card text_c">10 unidades disponibles</p>
+</div>`,
+        thumbnail: ["images/small/28.png", "images/small/3.jpg"],
+        large: ["images/large/28.png", "images/large/3.jpg"],
+        img_title: ["Imagen puerco "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Porta vela",
+        description: `
+<p>
+Porta vela en forma de pájaro es elaborado con hoja de lata y pintada a base de pintura de acrílico las ediciones de los colores de las flores pueden cambiar pero los colores de fondo disponible son (rosa,azul,verde)  
+</p>
+<p><h3>$175.00MXN$</h3></p>
+<div class="colores">
+<p class="text_c color_txt">Color</p> 
+<div class="colores_cards">
+<div class="rosa card_c"></div>
+<div class="azul card_c"></div>
+<div class="verde card_c"></div>
+
+</div>
+<p class="subtitulo_card text_c">15 unidades disponibles</p>
+</div>`,
+        thumbnail: ["images/small/29.png", "images/small/3.jpg"],
+        large: ["images/large/29.png", "images/large/3.jpg"],
+        img_title: ["Imagen porta "],
+        button_list: [
+          {
+            title: "Comprar",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          {
+            title: "Añadir al Carrito",
+            url: "http://porfolio.bonchen.net/",
+            new_window: true,
+          },
+          { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
+        ],
+        tags: ["Corazón"],
+      },
+      {
+        title: "<br>Corazón catrina",
+        description: `
+<p>
+El corazón catrina es elaborado con hoja de lata y pintada a base de pintura de acrílico las ediciones de los colores de las flores pueden cambiar pero los colores de fondo disponible son (naranja,azul,verde bosque)  
+</p>
+<p><h3>$220.00MXN$</h3></p>
+<div class="colores">
+<p class="text_c color_txt">Color</p> 
+<div class="colores_cards">
+<div class="naranja card_c"></div>
+<div class="azul card_c"></div>
+<div class="verde_Bosque card_c"></div>
+
+</div>
+<p class="subtitulo_card text_c">11 unidades disponibles</p>
+</div>`,
+        thumbnail: ["images/small/30.png", "images/small/3.jpg"],
+        large: ["images/large/30.png", "images/large/3.jpg"],
+        img_title: ["Imagen corazon_catrina "],
         button_list: [
           {
             title: "Comprar",

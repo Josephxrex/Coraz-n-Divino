@@ -108,22 +108,55 @@
   height: 20px;
   margin-right: .5rem;
 }
-
-.rojo{
+.rojo {
   background-color: #FF0000;
 }
 
-.amarillo{
+.rojo_claro {
+  background-color: #ff2216;
+}
+
+.rojo_Oscuro {
+  background-color: #890600;
+}
+
+.amarillo {
   background-color: #FFA800;
 }
 
-.azul{
+.azul {
   background-color: #004CE0;
 }
 
-.rosa{
+.rosa {
   background-color: palevioletred;
 }
+
+.turquesa {
+  background-color: #00868B;
+}
+
+.blancoOBS {
+  background-color: #ffffff;
+}
+
+.morado {
+  background-color: #572364;
+}
+
+.verde {
+  background-color: #008739;
+}
+
+.naranja {
+  background-color: #f46800;
+}
+
+.verde_Bosque {
+  background-color: #003810;
+}
+
+
 
 .color_txt{
   margin-bottom: 5px;
