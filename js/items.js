@@ -12,21 +12,21 @@ $(function () {
         //Item1
         title: "<br>Corazón Lotería",
         description: `
-                <p>
+                <p >
                 Corazón de hoja de lata con acabados de tarjetas de lotería 
                 disponible en todas las tiendas, temas de varios colores. 
                 </p>
-                <p><h3>$245.00MXN$</h3></p>
-                <div class="colores">
-                <p class="text_c color_txt">Color</p> 
-                <div class="colores_cards">
+                <h3>$245.00MXN$</h3>
+                <div class="colores d-none d-md-block">
+                <p class="text_c color_txt  ">Color</p> 
+                <div class="colores_cards ">
                     <div class="rojo card_c"></div>
                     <div class="azul card_c"></div>
                     <div class="amarillo card_c"></div>
                     <div class="rosa card_c"></div>
                 </div>
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
-                 </div>`,
+                </div>`,
         thumbnail: ["images/small/1.jpg", "images/small/3.jpg"],
         large: ["images/large/1.png", "images/large/3.jpg"],
         img_title: ["Imagen Corazon "],
@@ -50,22 +50,14 @@ $(function () {
       {
         title: "<br>Nicho de Madera",
         description: `
-                <p>
-                Nicho de madera  elaborado con madera de patol y pintado a base de 
-                pinturas acrílicas disponible solo en corazón divino varias versión
-                (San pascual, San Miguel Arcángel ,Madre Teresa de Calcuta).
-                </p>
-                <p><h3>$2350.00MXN$</h3></p>
-                <div class="colores">
-                <p class="text_c color_txt">Color</p> 
-                <div class="colores_cards">
-                    <div class="rojo card_c"></div>
-                    <div class="azul card_c"></div>
-                    <div class="amarillo card_c"></div>
-                    <div class="rosa card_c"></div>
-                </div>
-                <p class="subtitulo_card text_c">20 unidades disponibles</p>
-                 </div>`,
+        <p >
+        Nicho de madera  elaborado con madera de patol y pintado a base de pinturas acrílicas disponible solo en corazón divino varias versión(San pascual, San Miguel Arcángel ,Madre Teresa de Calcuta )
+        </p>
+        <h3>$350.00MXN$</h3>
+        <div class="colores d-none d-md-block">
+        
+        <p class="subtitulo_card text_c">20 unidades disponibles</p>
+        </div>`,
         thumbnail: ["images/small/2.jpg", "images/small/3.jpg"],
         large: ["images/large/2.png", "images/large/3.jpg"],
         img_title: ["Imagen Corazon "],
@@ -94,8 +86,8 @@ $(function () {
                 acrílicas disponible en todas las tiendas, bañador en varios colores
                 (rosa ,azul ,verde)
                 </p>
-                <p><h3>$195.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$195.00MXN$</h3>
+                <div class="colores d-none d-md-block"">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -127,22 +119,21 @@ $(function () {
       //Item 4
       {
         title: "<br>Mano Floreada",
-        description: `
-                <p>
-                Mano Floreada; decorativo elaborado a base de hoja de lata y pintada con pinturas 
-                acrílicas en la palama de la mano contiene un espejo disponible en los colores (rosa, morado).
-                </p>
-                <p><h3>$230.00MXN$</h3></p>
-                <div class="colores">
-                <p class="text_c color_txt">Color</p> 
-                <div class="colores_cards">
-                    <div class="rojo card_c"></div>
-                    <div class="azul card_c"></div>
-                    <div class="amarillo card_c"></div>
-                    <div class="rosa card_c"></div>
-                </div>
-                <p class="subtitulo_card text_c">20 unidades disponibles</p>
-                 </div>`,
+        description:  `
+        <p>
+        Mano Floreada; decorativo elaborado a base de hoja de lata y pintada con pinturas acrílicas en la palma
+        de la mano contiene un espejo.
+        </p>
+        <h3>$195.00MXN$</h3>
+        <div class="colores d-none d-md-block"">
+        <p class="text_c color_txt">Color</p> 
+        <div class="colores_cards">
+            <div class="rojo card_c"></div>
+            <div class="azul card_c"></div>
+            <div class="rosa card_c"></div>
+        </div>
+        <p class="subtitulo_card text_c">20 unidades disponibles</p>
+         </div>`,
         thumbnail: ["images/small/4.jpg", "images/small/3.jpg"],
         large: ["images/large/4.png", "images/large/3.jpg"],
         img_title: ["Imagen Corazon "],
@@ -169,9 +160,9 @@ $(function () {
                 Sirena elaborada con hoja de lata y pintada con pintada a base de pintura 
                 acrílica disponible en las versiones (rubia, morena).
                 </p>
-                <p><h3>$85.00MXN$</h3></p>
+                <h3>$85.00MXN$</h3>
                 <div class="colores">
-                <p class="text_c color_txt">Color</p> 
+                <p class="colores d-none d-md-block">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
                     <div class="azul card_c"></div>
@@ -208,8 +199,8 @@ $(function () {
                 colores además de que nos puedes especificar en cualquier caso que quisieras 
                 alguno en específico.
                 </p>
-                <p><h3>$135.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$135.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -245,8 +236,8 @@ $(function () {
                 Nicho de concha e elaborado con hoja de lata y pintado a base de pinturas de acrílico 
                 disponible en varias versiones no en colores en específico.
                 </p>
-                <p><h3>$135.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$135.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -284,8 +275,8 @@ $(function () {
                 previamente y pequeñas piezas de maya; hermosa decoración disponible 
                 en varios en varios tamaños. 
                 </p>
-                <p><h3>$170.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$170.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -322,8 +313,8 @@ $(function () {
                 Imán de catrina elaborado con hoja de lata pintado con pinturas a 
                 base de aceite disponible en sus versiones de color de sombrero (azul, verde, rosa).
                 </p>
-                <p><h3>$65.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$65.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -360,8 +351,8 @@ $(function () {
                 Corazón de hoja de lata NO pintado elaborado con hoja en oro 
                 y plata con esmalte de protección para el cuidado y su preservación de este.
                 </p>
-                <p><h3>$70.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$70.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -398,8 +389,8 @@ $(function () {
                 Mano Divina elaborada a base de hoja de lata pintada a base de pinturas de acrílico con una 
                 apertura para alguna imagen que contiene un vidrio de protección de esta. 
                 </p>
-                <p><h3>$70.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$70.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -437,8 +428,8 @@ $(function () {
                 de acrílico las ediciones de los colores de las flores pueden
                 cambiar pero los colores de fondo disponible son (rosa, azul, verde) 
                 </p>
-                <p><h3>$220.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$220.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -476,8 +467,8 @@ $(function () {
                 base de pinturas de acrílico único colores 
                 disponible (Blanco)
                 </p>
-                <p><h3>$320.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$320.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -517,8 +508,8 @@ $(function () {
                 para una vela de circulo. Colores disponibles 
                 (rojo, azul, verde, rosa)
                 </p>
-                <p><h3>$320.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$320.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -557,8 +548,8 @@ $(function () {
                 deterioro sea más rápido para que lleguemos a dar ese 
                 acabado.
                 </p>
-                <p><h3>$70.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$70.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -597,8 +588,8 @@ $(function () {
                 cada uno cuenta una historia diferente ¿Quieres ver más 
                 modelos? ¡Ponte en contacto con nosotros!
                 </p>
-                <p><h3>$320.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$320.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -638,8 +629,8 @@ $(function () {
                 protegida con un esmalte para la perseveración del 
                 producto.
                 </p>
-                <p><h3>$120.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$120.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -677,8 +668,8 @@ $(function () {
                 color plata pintado a base de pinturas acrílicas 
                 disponible en tres tamaños.
                 </p>
-                <p><h3>$120.00MXN$</h3></p>
-                <div class="colores">
+                <h3>$120.00MXN$</h3>
+                <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
                     <div class="rojo card_c"></div>
@@ -712,10 +703,10 @@ $(function () {
         <p>
         Nicho de iglesia elaborado es elaborado con hoja de lata y pintada a base de pintura de acrílico las ediciones de los colores son (turquesa,blanco,morado,rosa,azul).
         </p>
-        <p><h3>$220.00MXN$</h3></p>
-        <div class="colores">
-        <p class="text_c color_txt">Color</p> 
-        <div class="colores_cards">
+        <h3>$220.00MXN$</h3>
+        <div class="colores d-none d-md-block">
+        <p class="text_c color_txt d-none d-md-block">Color</p> 
+        <div class="colores_cards ">
             <div class="turquesa card_c"></div>
             <div class="blancoOBS card_c"></div>
             <div class="morado card_c"></div>
@@ -748,8 +739,8 @@ $(function () {
       <p>
       Ángel de madera de patol pintado a base de pintura acrílica disponible en varios instrumentos .
       </p>
-      <p><h3>$350.00MXN$</h3></p>
-    
+      <h3>$350.00MXN$</h3>
+      <div class="colores d-none d-md-block">
       <p class="subtitulo_card text_c">25 unidades disponibles</p>
        </div>`,
         thumbnail: ["images/small/20.png", "images/small/3.jpg"],
@@ -777,7 +768,7 @@ $(function () {
     Nicho triple concha elaborado con hoja de lata y pintado a base de pintura de acrílico con una pequeña puerta de vidrio que permite ver el fondo de cualquier imagen.
     </p>
     <p><h3>$255.00MXN$</h3></p>
-    <div class="colores">
+    <div class="d-none d-md-block">
     <p class="text_c color_txt">Color</p> 
     <div class="colores_cards">
         <div class="rojo card_c"></div>
@@ -806,21 +797,15 @@ $(function () {
         tags: ["Corazón"],
       },
       {
-        title: "<br>***************",
+        title: "<br>Nicho Fuente",
         description: `
-  <p>
-  ............
-  </p>
-  <p><h3>$00.00MXN$</h3></p>
-  <div class="colores">
-  <p class="text_c color_txt">Color</p> 
-  <div class="colores_cards">
-      <div class="rojo card_c"></div>
-      <div class="azul card_c"></div>
-      <div class="amarillo card_c"></div>
-      <div class="rosa card_c"></div>
-  </div>
-  <p class="subtitulo_card text_c">22 unidades disponibles</p>
+            <p>
+           Nicho de fuente elaborado a base de hoja de lata pintado con antiquecon una pequeña puerta de vidrio que permite ver el fondo de cualquier imagen.
+           </p>
+          <h3>$245.00MXN$</h3>
+       <div class="colores d-none d-md-block">
+  
+      <p class="subtitulo_card text_c">22 unidades disponibles</p>
    </div>`,
         thumbnail: ["images/small/22.png", "images/small/3.jpg"],
         large: ["images/large/22.png", "images/large/3.jpg"],
@@ -847,7 +832,7 @@ $(function () {
 El nicho es elaborado con hoja de lata pintados con pintura acrílica disponible en varias versiones de colores de flores (azul,morado,naranja,verde).
 </p>
 <p><h3>$270.00MXN$</h3></p>
-<div class="colores">
+<div class="colores d-none d-md-block">
 <p class="text_c color_txt">Color</p> 
 <div class="colores_cards">
     <div class="azul card_c"></div>
@@ -882,7 +867,7 @@ El nicho es elaborado con hoja de lata pintados con pintura acrílica disponible
 La cruz Divina es tallada con madera de patol posteriormente con una capa de sellador es barnizada y posteriormente pintada, finalizado todo ese proceso es elaborado pequeñas piezas de adorno de hoja de lata y pintadas con pintura de aceite dorada.
 </p>
 <p><h3>$270.00MXN$</h3></p>
-<div class="colores">
+<div class="colores d-none d-md-block">
 
 
 <p class="subtitulo_card text_c">15 unidades disponibles</p>
@@ -912,7 +897,7 @@ La cruz Divina es tallada con madera de patol posteriormente con una capa de sel
 <p>
 La catrina es elaborada con hoja de lata y pintada a base de pintura de acrílico con una pequeña incrustaciones de listones de colores .    </p>
 <p><h3>$270.00MXN$</h3></p>
-<div class="colores">
+<div class="colores d-none d-md-block">
 <p class="text_c color_txt">Color</p> 
 <div class="colores_cards">
 <div class="rojo card_c"></div>
@@ -947,7 +932,7 @@ La catrina es elaborada con hoja de lata y pintada a base de pintura de acrílic
 El corazón tres rayos es elaborado con hoja de lata y pintada a base de pintura de acrílico con una pequeña incrustación de una gama de fantasía de color rojo.
 </p>
 <p><h3>$130.00MXN$</h3></p>
-<div class="colores">
+<div class="colores d-none d-md-block">
 <p class="text_c color_txt">Color</p> 
 <div class="colores_cards">
 <div class="rojo_claro card_c"></div>
@@ -981,7 +966,7 @@ El corazón tres rayos es elaborado con hoja de lata y pintada a base de pintura
 El corazón es elaborado con hoja de lata y pintada a base de pintura de acrílico su nombre se da por que es algo pequeño relacionado con los tamaños de los otros.
 </p>
 <p><h3>$65.00MXN$</h3></p>
-<div class="colores">
+<div class="colores d-none d-md-block">
 <p class="text_c color_txt">Color</p> 
 <div class="colores_cards">
 <div class="rojo_claro card_c"></div>
@@ -1045,7 +1030,7 @@ El puerco es tallado en madera de patol ,la madera no tiene un peso significante
 Porta vela en forma de pájaro es elaborado con hoja de lata y pintada a base de pintura de acrílico las ediciones de los colores de las flores pueden cambiar pero los colores de fondo disponible son (rosa,azul,verde)  
 </p>
 <p><h3>$175.00MXN$</h3></p>
-<div class="colores">
+<div class="colores d-none d-md-block">
 <p class="text_c color_txt">Color</p> 
 <div class="colores_cards">
 <div class="rosa card_c"></div>
@@ -1080,7 +1065,7 @@ Porta vela en forma de pájaro es elaborado con hoja de lata y pintada a base de
 El corazón catrina es elaborado con hoja de lata y pintada a base de pintura de acrílico las ediciones de los colores de las flores pueden cambiar pero los colores de fondo disponible son (naranja,azul,verde bosque)  
 </p>
 <p><h3>$220.00MXN$</h3></p>
-<div class="colores">
+<div class="colores d-none d-md-block">
 <p class="text_c color_txt">Color</p> 
 <div class="colores_cards">
 <div class="naranja card_c"></div>
