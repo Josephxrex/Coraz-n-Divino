@@ -92,10 +92,7 @@
 #carouselExampleIndicators{
     margin-bottom: 4rem;
 }
-.carousel-item :active{
-    display: flex;
-    justify-content: center;
-}
+
 
 /* ======= MEDIA QUERY MÓVIL 375px ======== */
 @media screen and (min-width: 375px) {

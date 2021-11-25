@@ -1220,4 +1220,16 @@ footer{
     font-style: italic;
 }
 
+/* Correción de error */
+
+.contenedor__texto{
+  width: 300px;
+  font-size: 2rem;
+}
+
+@media screen and (min-width: 768px){
+  .contenedor__texto{
+    width: 500px;
+  }
+}
 
