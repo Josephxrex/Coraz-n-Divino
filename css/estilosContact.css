@@ -156,6 +156,10 @@ input[type]:focus {
         margin-bottom: 7rem;
     }
 
+    .forma{
+        width: 300px;
+    }
+
 }
 
 @media screen and (min-width: 1024px){
