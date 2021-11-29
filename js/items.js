@@ -161,16 +161,16 @@ $(function () {
                 acrílica disponible en las versiones (rubia, morena).
                 </p>
                 <h3>$85.00MXN$</h3>
-                <div class="colores">
+                <div class="d-none d-md-block">
                 <p class="colores d-none d-md-block">Color</p> 
-                <div class="colores_cards">
+                <div class="colores_cards ">
                     <div class="rojo card_c"></div>
                     <div class="azul card_c"></div>
                     <div class="amarillo card_c"></div>
                     <div class="rosa card_c"></div>
                 </div>
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
-                 </div>`,
+                </div>`,
         thumbnail: ["images/small/5.jpg", "images/small/3.jpg"],
         large: ["images/large/5.png", "images/large/3.jpg"],
         img_title: ["Imagen Corazon "],

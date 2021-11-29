@@ -606,8 +606,9 @@ $(function() {
                 this.$title = $( '<h3></h3>' );
                 this.$description = $( '<p></p>' );
                 this.$href = $( '<a href="#">Visit website</a>' );
-                this.$detailButtonList = $( '<span class="buttons-list"></span>' );
+                this.$detailButtonList = $( '<span class="buttons-list d-none d-md-block "></span>' );
                 this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$detailButtonList );
+                //this.$details = $( '<div class="d-none d-md-block"></div> ' ).append(this.$detailButtonList );
                 this.$loading = $( '<div class="og-loading"></div>' );
                 this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
                 this.$closePreview = $( '<span class="og-close"></span>' );
