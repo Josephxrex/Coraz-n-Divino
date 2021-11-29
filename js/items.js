@@ -90,9 +90,8 @@ $(function () {
                 <div class="colores d-none d-md-block"">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
-                    <div class="rojo card_c"></div>
+                    <div class="verde card_c"></div>
                     <div class="azul card_c"></div>
-                    <div class="amarillo card_c"></div>
                     <div class="rosa card_c"></div>
                 </div>
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
@@ -233,7 +232,7 @@ $(function () {
         title: "<br>Nicho de Concha",
         description: `
                 <p>
-                Nicho de concha e elaborado con hoja de lata y pintado a base de pinturas de acrílico 
+                Nicho de concha elaborado con hoja de lata y pintado a base de pinturas de acrílico 
                 disponible en varias versiones no en colores en específico.
                 </p>
                 <h3>$135.00MXN$</h3>
@@ -317,9 +316,8 @@ $(function () {
                 <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
-                    <div class="rojo card_c"></div>
                     <div class="azul card_c"></div>
-                    <div class="amarillo card_c"></div>
+                    <div class="verde card_c"></div>
                     <div class="rosa card_c"></div>
                 </div>
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
@@ -355,10 +353,7 @@ $(function () {
                 <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
-                    <div class="rojo card_c"></div>
-                    <div class="azul card_c"></div>
-                    <div class="amarillo card_c"></div>
-                    <div class="rosa card_c"></div>
+                 
                 </div>
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
                  </div>`,
@@ -432,9 +427,8 @@ $(function () {
                 <div class="colores d-none d-md-block">
                 <p class="text_c color_txt">Color</p> 
                 <div class="colores_cards">
-                    <div class="rojo card_c"></div>
+                    <div class="verde card_c"></div>
                     <div class="azul card_c"></div>
-                    <div class="amarillo card_c"></div>
                     <div class="rosa card_c"></div>
                 </div>
                 <p class="subtitulo_card text_c">20 unidades disponibles</p>
@@ -504,7 +498,7 @@ $(function () {
                 <p>
                 Corazón vela elaborado de hoja de lata y pintado a base 
                 de pinturas de acrílico tiene un pequeño apartado donde 
-                du nombre del mismo corazón hace presencia puesto que es 
+                su nombre del mismo corazón hace presencia puesto que es 
                 para una vela de circulo. Colores disponibles 
                 (rojo, azul, verde, rosa)
                 </p>
@@ -731,7 +725,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Nicho"],
       },
       {
         title: "<br>Ángel Musical",
@@ -759,7 +753,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
       {
         title: "<br>Nicho triple concha ",
@@ -794,7 +788,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Nicho"],
       },
       {
         title: "<br>Nicho Fuente",
@@ -823,7 +817,7 @@ $(function () {
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Nicho"],
       },
       {
         title: "<br>Nicho cuatro corazones",
@@ -858,13 +852,13 @@ El nicho es elaborado con hoja de lata pintados con pintura acrílica disponible
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Nicho"],
       },
       {
         title: "<br>Cruz divina",
         description: `
 <p>
-La cruz Divina es tallada con madera de patol posteriormente con una capa de sellador es barnizada y posteriormente pintada, finalizado todo ese proceso es elaborado pequeñas piezas de adorno de hoja de lata y pintadas con pintura de aceite dorada.
+La cruz divina es tallada con madera de patol posteriormente con una capa de sellador es barnizada y posteriormente pintada, finalizado todo ese proceso es elaborado pequeñas piezas de adorno de hoja de lata y pintadas con pintura de aceite dorada.
 </p>
 <p><h3>$270.00MXN$</h3></p>
 <div class="colores d-none d-md-block">
@@ -888,7 +882,7 @@ La cruz Divina es tallada con madera de patol posteriormente con una capa de sel
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Cruz"],
       },
       //aaa
       {
@@ -923,7 +917,7 @@ La catrina es elaborada con hoja de lata y pintada a base de pintura de acrílic
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Figuras Humanas"],
       },
       {
         title: "<br>Corazón tres rayos",
@@ -1021,7 +1015,7 @@ El puerco es tallado en madera de patol ,la madera no tiene un peso significante
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Animales"],
       },
       {
         title: "<br>Porta vela",
@@ -1056,7 +1050,7 @@ Porta vela en forma de pájaro es elaborado con hoja de lata y pintada a base de
           },
           { title: "♡", url: "http://porfolio.bonchen.net/", new_window: true },
         ],
-        tags: ["Corazón"],
+        tags: ["Animales"],
       },
       {
         title: "<br>Corazón catrina",
